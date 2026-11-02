@@ -7,3 +7,6 @@ dist
 .vercel
 *.tmp
 ~*
+
+.vercel
+.env*
